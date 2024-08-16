@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962206102996",
+    "project_id": "keep-notes-cf7a5",
+    "storage_bucket": "keep-notes-cf7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962206102996:android:5e4feaafddf2cd8e6b9241",
+        "android_client_info": {
+          "package_name": "com.example.google_sheets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8B_ov9tMba94Fl-1av1iVdN9X-UqFeoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
